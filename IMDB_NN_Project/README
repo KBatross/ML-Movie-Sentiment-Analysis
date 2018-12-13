@@ -4,7 +4,7 @@ Background
     This was created for a CMPS 142 project at UCSC to classify the sentiment of different sections of movie review
     based on an IMDB data set. The method this team took was to create a Neural Network using Keras along with the
     bag of words model in hopes of creating a good feature extractor. We created a LSTM 6-layer NN.
-    
+    Created by Kyle Batross / Leo Neat / Matt Hawdkins
     
     
     
