@@ -1,9 +1,13 @@
 ------------------------------------------------------
 Background
 ------------------------------------------------------
-    This was created for a CMPS 142 project at UCSC to classify the sentiment of diffrent sections of movie review
+    This was created for a CMPS 142 project at UCSC to classify the sentiment of different sections of movie review
     based on an IMDB data set. The method this team took was to create a Neural Network using Keras along with the
-    bag of words model in hopes of creating a good feature extractor
+    bag of words model in hopes of creating a good feature extractor. We created a LSTM 6-layer NN.
+    
+    
+    
+    
 
 ------------------------------------------------------
 Installation and Setup
@@ -71,5 +75,5 @@ Example stdout
 ------------------------------------------------------
 Support
 ------------------------------------------------------
-If you have any issues with the above or its preformance please contact:
-    Leo Neat via lneat@ucsc.edu
+If you have any issues with the above or its performance please contact:
+    Kyle Batross at kbatross@ucsc.edu
