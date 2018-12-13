@@ -1,6 +1,5 @@
 """
 *   test.py - 12/4/2018
-*   Leo Neat #1452487
 *
 *   This is used to test a pre trained model on the imdb data set for cmps 142
 *
